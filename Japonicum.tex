@@ -1,0 +1,116 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{geometry}
+\usepackage[CJK,overlap]{ruby}
+ \geometry{
+ a4paper,
+ %total={170mm,257mm},
+ left=10mm,
+ top=12mm,
+ right=10mm,
+ bottom=12mm,
+ }
+ 
+\renewcommand{\rubysep}{0.1ex}%3.9ex}
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+            {-0.5ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\z@}%
+            {-0.1ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\makeatother
+\newcommand\tab[1][1cm]{\hspace*{#1}} 
+\newcommand\tabni[1][0.2cm]{\hspace*{#1}}
+\newcommand\tabyon[1][0.4cm]{\hspace*{#1}}
+\newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
+
+\XeTeXlinebreaklocale "ja"
+\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em
+
+
+
+\setlength{\parindent}{0pt}
+\setCJKmainfont{ipaexm.ttf}
+\setcounter{tocdepth}{5}
+
+\begin{document}	%\large {1.5ex \@plus .2ex}%
+
+\tableofcontents
+\newpage
+
+\section{Verb Conjugation}
+\subsection{The 3 Verb Groups}
+\begin{enumerate}
+\item Group 3: \ruby{来}{く}る and する make up the group 3 verbs.
+\item Group 2: If there is a え or い ending syllable before the
+ る-ending of the verb then it is a group 2 verb.
+\item Exceptions: There are some exceptions to group 2: \ruby{帰}{かえ}る,\ruby{切}{き}る,
+\ruby{知}{し}る,\ruby{入}{はい}る,\ruby{走}{はし}る these are group 1 verbs.
+%More such excpetions for future reference: しる (to know), はいる (to enter), いる (to need), すべる (to slide), へる (to decrease), ねる (to knead), ける (to kick), かじる (to bite), まじる (to be mixed), しゃべる (to talk), せびる (to extort), あせる (to be in a hurry), はしる (to run), ちる (to scatter), てる (to shine)
+\item Group 1: Everything else. Including る ending verbs which are not in group 2.
+\end{enumerate}
+\subsection{The Polite-Style, ます-Form}
+\begin{enumerate}
+\item Group 1: Change the う-ending to a い-ending and add ます.
+\item Group 2: Remove the る and add ます instead.
+\item Group 3: する --> します,  \ruby{来}{く}る --> \ruby{来}{き}ます
+\end{enumerate}
+\subsubsection{The Forms ません, ました, ませんでした, ましょう}
+\begin{enumerate} \item Remove the ます and add ません for the negative-form, ました for the past-form,\\
+ませんでした for the past-negative-form and finally ましょう for the 'lets-do'-form.
+\end{enumerate}
+\subsection{The Plain-Style, ない-Form }
+\begin{enumerate}
+\item Group 1: Change the う-ending to an あ-ending, if the verb ends in う itself, 
+change it to わ instead.
+Add ない. \\ \tab ある is an exception, it becomes simply ない itself.
+\item Group 2: Remove the る and add ない. 
+\item Group 3: する --> しない,	 \ruby{来}{く}る --> \ruby{来}{こ}ない
+\end{enumerate}
+\subsubsection{The negative Plain-Style, なかった-Form}
+\begin{enumerate}
+\item In order to negate any verb in plain style simply remove the ない and add なかった instead.
+\end{enumerate}
+\subsection{The て-Form}
+\begin{enumerate} \item Group 1:
+\begin{enumerate} \item Ending with: る, つ, う: Remove the ending and replace it with って.
+\item Ending with: む, ぶ, ぬ Remove the ending and replace it with んで.
+\item Ending with: く, ぐ: The く becomes いて and the ぐ becomes いで. Exception: いく becomes いって.
+\item Ending with: す: Remove the ending and replace it with して.
+\end{enumerate}
+\item Group 2: Replace the ending る with て.
+\item Group 3: する --> して	\ruby{来}{く}る -->　きて
+\end{enumerate}
+\subsubsection{The た-Form}
+\begin{enumerate}
+\item For the た-Form simply replace the て with た and で with だ.
+\end{enumerate}
+\subsection{The Casual Volitional-Form ￥}
+\begin{enumerate}
+\item This form expresses ones desire to do something akin to 'Let's...',
+ it is the plain-style of ましょう.
+\item Group 1: Change the ending from its う-form to the お-form and add う.
+This then forms essentially a long o.
+\item Group 2: Take out the ending る and replace it with よう.
+\item Group 3: する --> しよう, \ruby{来}{く}る -->　\ruby{来}{こ}.
+\end{enumerate}
+\subsection{The Potential-Form ￥}
+\begin{enumerate}
+\item This form expresses ones ability to know how to, to be able to, do something.
+\item Group 1: Change the ending from its う-form to the え-form and add る.
+\item Group 2: Take out the ending る and replace it with られる.
+\item Group 3: する --> できる, \ruby{来}{く}る -->　\ruby{来}{こ}られる.
+\item Warning: All Verbs in potential-form are group 2 verbs when conjugating further.
+\end{enumerate}
+\subsection{The Causative-Form ￥}	
+\begin{enumerate}
+\item This form expresses one to let or make someone else do something.
+\item Group 1: Change the ending from its う-form to the あ-form and add せる.
+\item Group 2: Take out the ending る and replace it with させる.
+\item Group 3: する --> させる, \ruby{来}{く}る -->　\ruby{来}{こ}させる.
+\item Warning: All Verbs in potential-form are group 2 verbs when conjugating further.
+\end{enumerate}
+\end{document}
