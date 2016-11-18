@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{enumitem}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage[CJK,overlap]{ruby}
+ \geometry{
+ a4paper,
+ %total={170mm,257mm},
+ left=10mm,
+ top=12mm,
+ right=10mm,
+ bottom=12mm,
+ }
+ 
+\renewcommand{\rubysep}{0.1ex}%3.9ex}
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+            {-0.5ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\z@}%
+            {-0.1ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\makeatother
+
+\setlist{nolistsep}
+\titlespacing*{\section}
+{0pt}{1.5ex plus 1ex minus .2ex}{1.0ex plus .2ex}
+\titlespacing*{\subsection}
+{0pt}{0.5ex plus 1ex minus .2ex}{0.5ex plus .2ex}
+
+\newcommand\tab[1][1cm]{\hspace*{#1}} 
+\newcommand\tabni[1][0.2cm]{\hspace*{#1}}
+\newcommand\tabyon[1][0.4cm]{\hspace*{#1}}
+\newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
+
+\XeTeXlinebreaklocale "ja"
+\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em
+
+\setlength{\parindent}{0pt}
+\setCJKmainfont{ipaexm.ttf}
+\setcounter{tocdepth}{5}
+
+\begin{document}	%\large {1.5ex \@plus .2ex}%
+\section{How to count}
+\begin{itemize}%\setlength\itemsep{-0.4em}	%\vspace{-\topsep} 
+\item Population of Japan: 127million: ichi-oku-ni-sen-nana-hyaku-man nin
+\item Population of Russia: 143million: ichi-oku-yon-sen-san-hyaku nin
+\item Population of China: 1376million: juu-san-oku-nana-sen-roku-hyaku-man nin
+\item 100 million: ichi-oku-man
+\item 10 million: sen-man
+\item 1 million: hyaku-man
+\end{itemize}
+\section{How to say something is more of something (here: bigger)}
+\begin{itemize}
+\item どちらのほうがおおいですか。
+\item フランスのほうがおおいです。
+\end{itemize}
+\section{Ausflug}
+12.10.2016 (10.DEC) um 10:00 treff am Bahnhof dann 10:37 zug, entweder um 15:30 oder 17:30 zurück.
+\section{Random Vocabulary}
+\begin{itemize}
+\item ほとんど倒れしている。　\ruby{倒}{たお}れる		
+\begin{itemize}
+\item this is akin to benkyou shimasu, benkyou-shite-iru
+\begin{itemize}
+\item the を is apparently not needed for this form (though this is informal)
+\end{itemize}
+\end{itemize}
+\item \ruby{発音}{はつおん} = pronunciation
+\item \ruby{惜}{お}しい = regretable
+\item \ruby{予定}{よてい} = plan / schedule
+\item 
+\end{itemize}
+
+\end{document}
