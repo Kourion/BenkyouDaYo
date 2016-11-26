@@ -2,6 +2,7 @@
 \usepackage{xeCJK}
 \usepackage{enumitem}
 \usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
 \usepackage{geometry}
 \usepackage[CJK,overlap]{ruby}
  \geometry{
@@ -24,7 +25,9 @@
             {-1em}%
             {\normalfont\normalsize\bfseries}}
 \makeatother
+
 \newcommand\tab[1][1cm]{\hspace*{#1}} 
+\newcommand\tabi[1][0.05cm]{\hspace*{#1}}
 \newcommand\tabni[1][0.2cm]{\hspace*{#1}}
 \newcommand\tabyon[1][0.4cm]{\hspace*{#1}}
 \newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
@@ -199,6 +202,11 @@ This then forms essentially a long o.
 \item 私は、彼女が\ruby{羨}{うらや}ましいです。 --> I am envious of her. / I envy her.
 \item 彼は、彼女を\ruby{羨}{うらや}ましがっています。 --> He is envious of her. / He envies her.
 \end{itemize}
+\section{The difference between となり and よこ}
+\begin{itemize}
+\item Things that are \ruby{隣}{となり} \tabi must be of the same type, caliber, or quality. They must be perceived in some regard as equal. \ruby{隣}{となり} \tabi is also used to refer to the nearest object of the same type, regardless of whether the actual distance is near or far.
+\item Things that are \ruby{横}{よこ} \tabi are right next to each other, size and quality do not matter.
+\end{itemize}
 \section{Expressions of Like or Dislike}
 \begin{itemize}
 \item \ruby{好}{す}き --> to like:
@@ -211,14 +219,21 @@ This then forms essentially a long o.
 \item きらい is also a な-adj, thus again the negative is formed as: 嫌いではありませｎ.
 \end{itemize}
 \item Both すき and きらい are not to be modifierd with things like たいへん für emphasis, but instead だい. Also 大好き for example.
-\item Sentence structures:
-\begin{itemize}
-\item Question:				\tab あなたはコーラがすきですか。 --> Do you like cola?
-\item Positive awnser:		\tab はい、＿(私)＿は＿(コーラ)＿が＿(好き)＿。
-\item Negative awnser:		\tab いいえ、(私) 　は＿(コーラ)＿は＿(嫌い)＿。
-\item Question: 			\tab あなたはなにがすきですか。 --> What do you like?
-\item Awnser: 				\tab 私はビールがすきです。
-\end{itemize}
+\item Example sentence structures:\\
+%\begin{itemize}
+%\item Question:				\tab あなたはコーラがすきですか。 --> Do you like cola?
+%\item Positive awnser:		\tab はい、＿(私)＿は＿(コーラ)＿が＿(好き)＿。
+%\item Negative awnser:		\tab いいえ、(私) 　は＿(コーラ)＿は＿(嫌い)＿。
+%\item Question: 			\tab あなたはなにがすきですか。 --> What do you like?
+%\item Awnser: 				\tab 私はビールがすきです。
+%\end{itemize}
+\begin{tabular}{ l l l l l l l l l l }
+Question:&&あなた&は&コーラ&\color{orange}が&すき&です&か。& --> Do you like cola? \\
+Positive awnser:&はい、&私&は&コーラ&\color{orange}が&好き&です&。& --> Yes i like cola. \\
+Negative awnser:&いいえ、&私&は&コーラ&\color{blue}は&嫌い&です&。& --> No i hate cola. \\ \\
+Question:&&あなた&は&なに&\color{orange}が&すき&です&か。& --> What do you like? \\
+Awnser:&&私&は&ビール&\color{orange}が&すき&です&。& --> I like beer. \\
+\end{tabular}
 \end{itemize}
 \section{Normalising a verb through the use of こと}
 \begin{itemize}
@@ -232,9 +247,23 @@ This then forms essentially a long o.
 \item 私が好きなことは、音楽をきくことです --> I like to listen to music.
 \end{itemize}
 \end{itemize}
-\section{The difference between となり and よこ}
-\begin{itemize}
-\item Things that are \ruby{隣}{となり} must be of the same type, caliber, or quality. They must be perceived in some regard as equal. \ruby{隣}{となり} is also used to refer to the nearest object of the same type, regardless of whether the actual distance is near or far.
-\item Things that are \ruby{横}{よこ} are right next to each other, size and quality do not matter.
-\end{itemize}
+\section{Describing Ability}
+\tab \begin{tabular}{ l l l l l l l l l l }
+私&\color{red}は&日本語&&&&\color{orange}が&\ruby{出来}{でき}ます&。& --> I am capable of Japanese.\\
+彼&\color{red}は&日本語&\color{blue}を&話す&\color{ForestGreen}事&\color{orange}が&\ruby{出来}{でき}る&。& --> He can speak Japanese.\\
+彼女&\color{red}は&日本語&\color{blue}を&読む&\color{ForestGreen}事&\color{orange}が&\ruby{上手}{じょうず}です&。& --> She is good at reading Japanese.\\
+彼達&\color{red}は&日本語&\color{blue}を&書く&\color{ForestGreen}事&\color{orange}が&\ruby{下手}{へた}です&。& --> They are bad at writing Japanese.\\
+彼&\color{red}は&&&食べる&\color{ForestGreen}事&\color{orange}が&\ruby{得意}{とくい}です&。& --> He is good at eating and likes it.\\
+彼女&\color{red}は&&&走る&\color{ForestGreen}事&\color{orange}が&\ruby{苦手}{にがて}です&。& --> She is bad at running and dislikes it.\\
+彼&\color{red}は&ピアノ&\color{blue}を&ひく&\color{ForestGreen}事&\color{orange}が&\ruby{得意}{とくい}です&。& --> He likes to play the piano and is good at it.\\
+彼女&\color{red}は&フルート&\color{blue}を&ふく&\color{ForestGreen}事&\color{orange}が&\ruby{苦手}{にがて}です&。& --> She likes to play the flute and is good at it.\\
+\end{tabular}
+\subsection{Other sentence structures: \\ \ruby{必要}{ひつよう} (to need), \ruby{分}{わ}かる(to understand/know), \ruby{苦手}{にがて}(to dislike) }
+\vspace{1mm}
+\tab \begin{tabular}{ l l l l l l l l l l }
+私&は&&&ミルク&が&苦手&です。& --> I dislike milk.\\
+あなた&は&&&日本語&が&わかります&か。& --> Do you understand Japanese?\\
+私&は&&&時間&が&必要&です。& --> I need time.\\
+ダンス&が&じょうず&な&ひと&は&だれ&ですか。& --> The person who plays the piano is who?\\
+\end{tabular}
 \end{document}
