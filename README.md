@@ -1,4 +1,4 @@
-# [Japonicum](../master/Japonicum.pdf)
+# [Japonicum](../JaponicumSemester3.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 Additional info is provided and marked with the ¥(円) symbol, while helpful these parts are less relevant.  
 --> Sorted into Semesters 1(TODO),2(TODO) and 3(UpToDateAsOf 30.11.2016)
