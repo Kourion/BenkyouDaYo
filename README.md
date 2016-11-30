@@ -20,3 +20,6 @@ Pretty self explanatory, it contains all the Vocabs we get mailed every so often
 Naturally with supportive ひらがな or ふりがな, and proper translation.
 
 Translations are mainly taken from jisho.org.
+
+# ANKI Vocabulary
+The vocabulary in form of anki study cards is to be found at: lorem.ipsum.com
