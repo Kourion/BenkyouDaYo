@@ -1,7 +1,7 @@
-# Japonicum
+# [Japonicum](/JaponicumSemester3.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 Additional info is provided and marked with the ¥(円) symbol, while helpful these parts are less relevant.  
---> Sorted into Semesters 1(TODO),2(TODO) and [3](../../JaponicumSemester3.pdf)(UpToDateAsOf 30.11.2016)
+--> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 30.11.2016)
 
 # NaAdjectives
 Entails a list of lots of na-adjectives. (There are propably plenty missing, help finding them would be appreciated.)
