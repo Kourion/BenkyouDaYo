@@ -15,4 +15,8 @@ Entails a list of all na-adjectives (there are some missing).
 This is a LaTeX version of all my notes from our 日本文化地理概論. Hopefully kept up to date every week starting soon, it currently especially lacks the first couple of lessons. Also some dates and statistics as presented by そとむら are either completly untrue or simply outdated as such i often provide the true facts in parenthesis right next to them. (Though for the exam one might want to go with そとむら's view on the world.)
 
 # Landeskunde Vocabulary
-Pretty self explanatory, it contains all the Vocabs we get mailed every so often. Naturally with supportive ひらがな or ふりがな, and proper translation. Translations are mainly taken from jisho.org.
+Pretty self explanatory, it contains all the Vocabs we get mailed every so often. 
+
+Naturally with supportive ひらがな or ふりがな, and proper translation.
+
+Translations are mainly taken from jisho.org.
