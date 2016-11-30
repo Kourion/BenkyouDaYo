@@ -1,7 +1,7 @@
 # [Japonicum](/JaponicumSemester3.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
-Additional info is provided and marked with the ¥(円) symbol, while helpful these parts are less relevant.  
---> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 30.11.2016)
+Additional info is provided and marked with the ¥(円) symbol if that info was never given by そと, while helpful these parts are less relevant.  
+--> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 30.11.2016)  
 
 # [Landeskunde](/Landeskunde.pdf)
 This is a LaTeX version of all my notes from our 日本文化地理概論. Also some dates and statistics as presented by そとむら are either outdated or biased i sometimes provide additional information in parenthesis right next to them.  
