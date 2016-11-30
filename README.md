@@ -9,7 +9,7 @@ Entails a list of lots of na-adjectives. (There are propably plenty missing, hel
 # Landeskunde
 This is a LaTeX version of all my notes from our 日本文化地理概論. Also some dates and statistics as presented by そとむら are either completly untrue or simply outdated as such i often provide the true facts in parenthesis right next to them. (Though for the exam one might want to go with そとむら's view of the world.)  
 
-Hopefully kept up to date every week starting soon, it currently especially lacks the first couple of lessons.
+Hopefully kept up to date every week starting soon, it currently especially lacks the first couple of lessons.  
 (Contains currently classes 4 and 5. /Missing: 1,2,3 and 6)
 
 # Landeskunde Vocabulary
