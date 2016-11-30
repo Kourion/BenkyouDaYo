@@ -7,15 +7,16 @@ Additional info is provided and marked with the ¥(円) symbol, while helpful th
 Entails a list of lots of na-adjectives. (There are propably plenty missing, help finding them would be appreciated.)
 
 # Landeskunde
-This is a LaTeX version of all my notes from our 日本文化地理概論. Also some dates and statistics as presented by そとむら are either completly untrue or simply outdated as such i often provide the true facts in parenthesis right next to them. (Though for the exam one might want to go with そとむら's view of the world.)  
+This is a LaTeX version of all my notes from our 日本文化地理概論. Also some dates and statistics as presented by そとむら are either outdated or biased i sometimes provide additional information in parenthesis right next to them.  
+(Though for the exam one might want to go with そとむら's view of the world.)  
 
 Hopefully kept up to date every week starting soon, it currently especially lacks the first couple of lessons.  
-(Contains currently classes 4 and 5. /Missing: 1,2,3 and 6)
+(Contains currently lections 4(society),5(education) and 6(economy). /Missing: 1(nature),2(politics),3(diplomacy))
 
 # Landeskunde Vocabulary
 Pretty self explanatory, it contains all the Vocabs we get mailed every so often.  
 Naturally with supportive ひらがな or ふりがな, and proper translation.
-(Contains currently classes 1-6. /Missing: 7)
+(Contains currently lections 1-7. /Missing: none)
 
 # ANKI Vocabulary
 The vocabulary in form of anki study cards is to be found at: (coming soon)
