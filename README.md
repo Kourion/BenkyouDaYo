@@ -1,6 +1,3 @@
-# BenkyouDaYo
-日本語の勉強をしの道具.
-
 # Japonicum
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.
 
