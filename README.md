@@ -1,4 +1,4 @@
-# Japonicum
+# [Japonicum](../master/Japonicum.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 Additional info is provided and marked with the ¥(円) symbol, while helpful these parts are less relevant.  
 --> Sorted into Semesters 1(TODO),2(TODO) and 3(UpToDateAsOf 30.11.2016)
@@ -20,7 +20,7 @@ Naturally with supportive ひらがな or ふりがな, and proper translation.
 
 # ANKI Vocabulary
 The vocabulary in form of anki study cards is to be found at: (coming soon)
-### ANKI Vocabulary Language Course
+### ANKI [Vocabulary Language Course](https://drive.google.com/drive/folders/0B9AJAgnr7rueSThDSlVPSERGYmM?usp=sharing "Download")
 UpToDateAsOf 30.11.2016
 ### ANKI Katakana Collection
 TODO
