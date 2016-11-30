@@ -2,9 +2,9 @@
 日本語の勉強をしの道具.
 
 # Japonicum
-Collection of all things grammar, and especially everything talked about in the language course.
+Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.
 
-Additional info is provided and marked with the YEN symbol, while helpful these parts are less relevant.
+Additional info is provided and marked with the ¥(円) symbol, while helpful these parts are less relevant.
 
 --> Sorted into Semesters 1,2 and 3
 
