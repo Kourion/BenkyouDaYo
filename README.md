@@ -2,8 +2,10 @@
 日本語の勉強をしの道具.
 
 # Japonicum
-Collection of all things grammar, and especially everything talked about in the language course. \\
-Additional info is provided and marked with the YEN symbol, while helpful these parts can be skipped when preparing for an exam. \\
+Collection of all things grammar, and especially everything talked about in the language course.
+
+Additional info is provided and marked with the YEN symbol, while helpful these parts are less relevant.
+
 --> Sorted into Semesters 1,2 and 3
 
 # NaAdjectives
