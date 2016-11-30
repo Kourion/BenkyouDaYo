@@ -16,7 +16,7 @@ Naturally with supportive ひらがな or ふりがな, and proper translation.
 (Contains currently lections 1-7. /Missing: none)
 
 # ANKI Vocabulary
-The vocabulary in form of anki study cards is to be found at: (coming soon)
+The vocabulary in form of anki study cards:
 ### [ANKI Vocabulary Language Course](https://drive.google.com/drive/folders/0B9AJAgnr7rueSThDSlVPSERGYmM?usp=sharing "Download")
 UpToDateAsOf 30.11.2016
 ### ANKI Katakana Collection
