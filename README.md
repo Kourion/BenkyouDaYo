@@ -18,7 +18,7 @@ Naturally with supportive ひらがな or ふりがな, and proper translation.
 # ANKI Vocabulary
 The vocabulary in form of anki study cards:
 ### [ANKI Vocabulary Language Course](https://drive.google.com/open?id=0B9AJAgnr7rueWGV6Rnl5VTV0Nzg "Download")
-UpToDate(Ish)AsOf 01.DEC.2016
+UpToDateAsOf 01.DEC.2016 19:00
 ### ANKI Katakana Collection
 TODO
 ### ANKI Landeskunde Vocabulary
