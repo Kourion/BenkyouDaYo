@@ -11,8 +11,8 @@ Hopefully kept up to date every week starting soon, it currently especially lack
 (Contains currently lections 4(society),5(education) and 6(economy). /Missing: 1(nature),2(politics),3(diplomacy))
 
 # [Landeskunde Vocabulary](/LandeskundeVocabulary.pdf)
-Pretty self explanatory, it contains all the Vocabs we get mailed every so often.  
-Naturally with supportive ひらがな or ふりがな, and proper translation.
+Pretty self explanatory, it contains all the Vocabs we get mailed every so often in form of some very nice tables.  
+Naturally with supportive ひらがな or ふりがな, and proper translation.  
 (Contains currently lections 1-7. /Missing: none)
 
 # ANKI Vocabulary
