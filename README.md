@@ -24,10 +24,11 @@ TODO
 ### ANKI Landeskunde Vocabulary
 Contains clases 1-2. /Missing 4-7
 ### How to use the ANKI decks properly:  
-Download the .apkg files from the links above and import them into Anki Desktop. Rinse and repeat on days following lectures or vocabulary emails, by then the new versions should be up. 
+Download the .apkg files from the links above and import them into Anki Desktop.  
+Rinse and repeat on days following lectures or vocabulary emails, by then the new versions should be up. 
 
-But wait! Won't i loose my studying progress everytime i download the deck anew?  
-No! Anki is smart enough to compare your already existing decks with your current imports, as long as the cards are not entirely turned upside down(which they hopefully won't be), this means cards will only be imported if they areentirely new, otherwise only changes will be adopted keeping your scheduling.  
+But wait! Won't I loose my studying progress everytime I download the deck anew? 
+No! Anki is smart enough to compare your already existing decks with your current imports, as long as the cards are not entirely turned upside down(which they hopefully won't be), this means cards will only be imported if they are entirely new, otherwise only changes will be adopted keeping your scheduling.  
 
 
 # [NaAdjectives](/NaAdjectives.pdf)
