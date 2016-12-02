@@ -36,4 +36,4 @@ Entails a list of lots of na-adjectives. (There are propably plenty missing, hel
 
 # [List of new Vocabulary](/JaponicumVocabulary.pdf) 
 For those cases where anki is not suited, a fine list instead.  
-(UpToDateAsOf 02.Dec.16)
+(UpToDateAsOf 03.Dec.16)
