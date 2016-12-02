@@ -1,13 +1,13 @@
 # [Japonicum](/JaponicumSemester3.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 Additional info is provided and marked with the ¥(円) symbol if that info was never given by そと, while helpful these parts are less relevant.  
---> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 30.11.2016)  
+--> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 03.Dec.2016)  
 
 # [Landeskunde](/Landeskunde.pdf)
 This is a LaTeX version of all my notes from our 日本文化地理概論. Also some dates and statistics as presented by そとむら are either outdated or biased i sometimes provide additional information in parenthesis right next to them.  
 (Though for the exam one might want to go with そとむら's view of the world.)  
 
-Hopefully kept up to date every week starting soon, it currently especially lacks the first couple of lessons.  
+Hopefully kept up to date every week starting soon, it currently lacks the first couple of lessons.  
 (Contains currently lections 4(society),5(education) and 6(economy). /Missing: 1(nature),2(politics),3(diplomacy))
 
 # [Landeskunde Vocabulary](/LandeskundeVocabulary.pdf)
@@ -18,7 +18,7 @@ Naturally with supportive ひらがな or ふりがな, and proper translation.
 # ANKI Vocabulary
 The vocabulary in form of anki study cards:
 ### [ANKI Vocabulary Language Course](https://drive.google.com/open?id=0B9AJAgnr7rueUGJkdTZuMkU4OVE "Download")
-UpToDateAsOf 01.DEC.2016 19:00
+UpToDateAsOf 03.Dec.2016
 ### ANKI Katakana Collection
 TODO
 ### ANKI Landeskunde Vocabulary
