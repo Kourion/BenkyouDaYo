@@ -1,0 +1,91 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{geometry}
+\usepackage[CJK,overlap]{ruby}
+ \geometry{
+ a4paper,
+ %total={170mm,257mm},
+ left=10mm,
+ top=12mm,
+ right=10mm,
+ bottom=12mm,
+ }
+ 
+\renewcommand{\rubysep}{0.1ex}%3.9ex}
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+            {-0.5ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\z@}%
+            {-0.1ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\makeatother
+
+\newcommand\tab[1][1cm]{\hspace*{#1}} 
+\newcommand\tabi[1][0.05cm]{\hspace*{#1}}
+\newcommand\tabni[1][0.2cm]{\hspace*{#1}}
+\newcommand\tabyon[1][0.4cm]{\hspace*{#1}}
+\newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
+
+\XeTeXlinebreaklocale "ja"
+\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em
+
+\setlist{nolistsep}
+\titlespacing*{\section}
+{0pt}{1.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsection}
+{0pt}{0.5ex plus 1ex minus .2ex}{0.5ex plus .2ex}
+
+\setlength{\parindent}{0pt}
+\setCJKmainfont{ipaexm.ttf}
+\setcounter{tocdepth}{5}
+
+\begin{document}
+\part*{New Vocabulary}
+\begin{tabular}{ l | l l }
+Kanji&Kana&Translation\\ \hline\\[-1em]
+覚えています&おぼえています&--> to remember \\ \hline\\[-1em]
+覚える &おぼえる&--> to memorize \\ \hline\\[-1em]
+忘れました &わすれました&--> to have forgotten \\ \hline\\[-1em]
+忘れる &わすれる&--> to forget \\ \hline\\[-1em]
+与党 &よとう&--> ruling party \\ \hline\\[-1em]
+野党 &やとう&--> opposition party \\ \hline\\[-1em]
+必要&ひつよう&--> to need \\ \hline\\[-1em]
+祖父&そふ&--> grandfather \\ \hline\\[-1em]
+祖母&そぼ&--> grandmother \\ \hline\\[-1em]
+伯父&おじ&--> uncle \\ \hline\\[-1em]
+伯母&おば&--> aunt \\ \hline\\[-1em]
+従兄弟/従姉妹&いとこ&--> cousin \\ \hline\\[-1em]
+ご主人&ごしゅじん&--> someone else's husband \\ \hline\\[-1em]
+主人&しゅじん&--> one's husband \\ \hline\\[-1em]
+奥さん&おくさん&--> someone else's wife \\ \hline\\[-1em]
+家内&かない&--> one's wife \\ \hline\\[-1em]
+結婚(を)する&けっこん(を)する&--> to get married \\ \hline\\[-1em]
+結婚(を)している&けっこん(を)している&--> to be married \\ \hline\\[-1em]
+離婚(を)する&りこん(を)する&--> to divorce \\ \hline\\[-1em]
+独身&どくしん&--> single \\ \hline\\[-1em] 
+一人っ子&ひとりこ&--> only child \\ \hline\\[-1em]
+双子&ふたご&--> twins %\\ \hline\\[-1em]
+\end{tabular}
+
+\part*{Vocabulary that we already had}
+\begin{tabular}{ l | l l }
+親戚&しんせき&--> relatives \\ \hline\\[-1em]
+兄弟&きょうだい&--> siblings \\ \hline\\[-1em]
+兄&あに&--> older brother \\ \hline\\[-1em]
+姉&あね&--> older sister \\ \hline\\[-1em]
+家族&かぞく&--> family \\ \hline\\[-1em]
+両親&りょうしん&--> parents
+\end{tabular}
+
+\part*{カタカナ}
+\begin{tabular}{ l | l }
+ハズバンド&husband
+\end{tabular}
+%\footnotetext{する-verb}
+\end{document}
