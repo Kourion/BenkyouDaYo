@@ -22,7 +22,7 @@ UpToDateAsOf 03.Dec.2016
 ### ANKI Katakana Collection
 TODO
 ### ANKI Landeskunde Vocabulary
-Contains clases 1-2. /Missing 4-7
+Contains clases 1-3. /Missing 4-7
 ### How to use the ANKI decks properly:  
 Download the .apkg files from the links above and import them into Anki Desktop.  
 Rinse and repeat on days following lectures or vocabulary emails, by then the new versions should be up. 
