@@ -34,6 +34,9 @@ No! Anki is smart enough to compare your already existing decks with your curren
 # [NaAdjectives](/NaAdjectives.pdf)
 Entails a list of lots of na-adjectives. (There are propably plenty missing, help finding them would be appreciated.)
 
-# [List of new Vocabulary](/JaponicumVocabulary.pdf) 
-For those cases where anki is not suited, a fine list instead.  
+# [Japonicum Vocabulary](/JaponicumVocabulary.pdf) 
+For those cases where anki is not suited, a fine list of all new vocabulary instead.  
 (UpToDateAsOf 03.Dec.16)
+
+# [Random Vocabulary](/RandomVocabulary.pdf) 
+Words which i pick up here and there from one 日本人 or another. Please note the randomness factor here is unusually large.
