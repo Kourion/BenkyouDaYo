@@ -1,14 +1,14 @@
 # [Japonicum](/JaponicumSemester3.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 Additional info is provided and marked with the ¥(円) symbol if that info was never given by そと, while helpful these parts are less relevant.  
---> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 03.Dec.2016)  
+--> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 07.Dec.2016)  
 
 # [Landeskunde](/Landeskunde.pdf)
 This is a LaTeX version of all my notes from our 日本文化地理概論. Also some dates and statistics as presented by そとむら are either outdated or biased i sometimes provide additional information in parenthesis right next to them.  
 (Though for the exam one might want to go with そとむら's view of the world.)  
 
 Hopefully kept up to date every week starting soon, it currently lacks the first couple of lessons.  
-(Contains currently lections 4(society),5(education),6(economy) and(in parts 7(culture)). /Missing: 1(nature),2(politics),3(diplomacy), rest of 7)
+(Contains currently lections 4(society),5(education),6(economy) and 7(culture). /Missing: 1(nature),2(politics),3(diplomacy))
 
 # [Landeskunde Vocabulary](/LandeskundeVocabulary.pdf)
 Pretty self explanatory, it contains all the Vocabs we get mailed every so often in form of some very nice tables.  
