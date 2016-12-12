@@ -4,7 +4,7 @@ Additional info is provided and marked with the ¥(円) symbol if that info was 
 --> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 12.Dec.2016)
 
 ## [日本学 Vocabulary](/JaponicumVocabulary.pdf) 
-For those cases where anki is not suited, a fine list of all new vocabulary instead.  
+For those cases where anki is not suited, a fine list of all new vocabulary instead. Semester 3 only. 
 (UpToDateAsOf 12.Dec.16)
 
 # [日本文化地理概論](/Landeskunde.pdf)
