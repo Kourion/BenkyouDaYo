@@ -1,0 +1,70 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{geometry}
+\usepackage[CJK,overlap]{ruby}
+\usepackage{pifont}
+
+\geometry{
+ a4paper,
+ %total={170mm,257mm},
+ left=10mm,
+ top=12mm,
+ right=10mm,
+ bottom=12mm,
+ }
+ 
+\renewcommand{\rubysep}{0.1ex}%3.9ex}
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+            {-0.5ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\z@}%
+            {-0.1ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\makeatother
+
+
+
+\newcommand\tab[1][1cm]{\hspace*{#1}} 
+\newcommand\tabi[1][0.05cm]{\hspace*{#1}}
+\newcommand\tabni[1][0.2cm]{\hspace*{#1}}
+\newcommand\tabyon[1][0.4cm]{\hspace*{#1}}
+\newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
+
+\XeTeXlinebreaklocale "ja"
+\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em
+
+\setlist{nolistsep}
+\titlespacing*{\section}
+{0pt}{1.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsection}
+{0pt}{0.5ex plus 1ex minus .2ex}{0.5ex plus .2ex}
+
+\setlength{\parindent}{0pt}
+\setCJKmainfont{ipaexm.ttf}
+\setcounter{tocdepth}{5}
+
+\begin{document}	%\large {1.5ex \@plus .2ex}%
+\tableofcontents
+\newpage
+
+\section{Days and Months}
+DAYS: \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tabroku |MONTHS: \\
+\begin{tabular}{ l l l | l l l l | l l l l l | l l l }
+1&つい&たち&11&じゅう&いち&にち&21&に&じゅう&いち&にち&1&いち&がつ \\
+2&ふつ&か&12&じゅう&に&にち&22&に&じゅう&に&にち&2&に&がつ \\
+3&みっ&か&13&じゅう&さん&にち&23&に&じゅう&さん&にち&3&さん&がつ \\
+\large{\ding{185}}&よっ&か&\underline{14}&じゅう&よっ&か&24&に&じゅう&よっ&か&\underline{4}&し&がつ \\
+5&　\\
+6&\\
+7&\\
+8&\\
+9&\\
+10&\\
+\end{tabular}
+\end{document}
