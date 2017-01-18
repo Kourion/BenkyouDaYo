@@ -1,9 +1,9 @@
 # [日本学](/JaponicumSemester3.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 Additional info is provided and marked with the ¥(円) symbol if that info was never given by そと, while potentially helpful these parts are less relevant.  
---> Sorted into [Semester 1(TODO)](/JaponicumSemester1.pdf),  
+[Semester 1(TODO)](/JaponicumSemester1.pdf),  
 [Semester 2(InProgress)](/JaponicumSemester2.pdf)  
-and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 18.Dec.2016)  
+[Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 18.Dec.2016)  
 
 ## [日本学 Vocabulary](/JaponicumVocabulary.pdf) 
 For those cases where anki is not suited, a fine list of all new vocabulary instead. (UpToDateAsOf 18.Dec.16)  
