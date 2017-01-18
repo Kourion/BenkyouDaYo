@@ -1,10 +1,10 @@
 # [日本学](/JaponicumSemester3.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
-Additional info is provided and marked with the ¥(円) symbol if that info was never given by そと, while helpful these parts are less relevant.  
---> Sorted into Semesters 1(TODO), Semester 2(TODO) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 18.Dec.2016)
+Additional info is provided and marked with the ¥(円) symbol if that info was never given by そと, while potentially helpful these parts are less relevant.  
+--> Sorted into Semesters 1(TODO), [Semester 2(InProgress)](/JaponicumSemester2.pdf) and [Semester 3](/JaponicumSemester3.pdf)(UpToDateAsOf 18.Dec.2016)
 
 ## [日本学 Vocabulary](/JaponicumVocabulary.pdf) 
-For those cases where anki is not suited, a fine list of all new vocabulary instead. Semester 3 only. 
+For those cases where anki is not suited, a fine list of all new vocabulary instead.
 (UpToDateAsOf 18.Dec.16)
 
 # [日本文化地理概論](/Landeskunde.pdf)
@@ -12,12 +12,12 @@ This is a LaTeX version of all my notes from our 日本文化地理概論. Also 
 (Though for the exam one might want to go with そとむら's view of the world.)  
 
 Hopefully kept up to date every week starting soon, it currently lacks the first couple of lessons.  
-(Contains currently lections 4(society),5(education),6(economy) and 7(culture). /Missing: 1(nature),2(politics),3(diplomacy))
+(Contains currently lections 1(nature),2(politics),3(diplomacy[not finished]), 4(society),5(education),6(economy), 7(culture), Missing: 8(food), 9(housing), 10(history). )
 
 ## [日本文化地理概論 Vocabulary](/LandeskundeVocabulary.pdf)
 Pretty self explanatory, it contains all the Vocabs we get mailed every so often in form of some very nice tables.  
 Naturally with supportive ひらがな or ふりがな, and proper translation.  
-(Contains currently lections 1-8. /Missing: none  || UpToDateAsOf 18.Dec.16)
+(Contains currently lections 1-10 /Missing: 11 || UpToDateAsOf 18.Jan.17)
 
 # ANKI Vocabulary
 The vocabulary in form of anki study cards:
@@ -26,7 +26,7 @@ UpToDateAsOf 18.Dec.2016
 ### ANKI Katakana Collection
 TODO
 ### ANKI 日本文化地理概論 Vocabulary
-Contains clases 1-3. /Missing 4-7
+Contains clases 1-9
 ### How to use the ANKI decks properly:  
 Download the .apkg files from the links above and import them into Anki Desktop.  
 Rinse and repeat on days following lectures or vocabulary emails, by then the new versions should be up. 
