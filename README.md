@@ -16,7 +16,7 @@ This is a LaTeX version of all my notes from our 日本文化地理概論. Also 
 (Though for the exam one might want to go with そとむら's view of the world.)  
   
 Contains currently lections: 
-1(nature), 2(politics), 3(diplomacy[not finished]),
+1(nature), 2(politics), 3(diplomacy),
 4(society), 5(education), 6(economy), 7(culture),  
 
 Missing: 8(food), 9(housing), 10(history)
