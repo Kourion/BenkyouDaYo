@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage{xeCJK}
 \usepackage[CJK,overlap]{ruby}
+\usepackage{fancyhdr}
 \usepackage{geometry}
  \geometry{
  a4paper,
@@ -13,6 +14,19 @@
 \setCJKmainfont{ipaexm.ttf}
 \renewcommand{\rubysep}{0.1ex}%3.9ex}
 \newcommand\tabni[1][0.2cm]{\hspace*{#1}}
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{v1.0}
+%\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+
+
 \begin{document} \large
 \section{地理 (ちり) geography	| 自然 (しぜん) nature}
 \begin{tabular}{ l | l | p{7.5cm} }
