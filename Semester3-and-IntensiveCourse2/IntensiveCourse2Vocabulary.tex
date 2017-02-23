@@ -1,0 +1,120 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage[CJK,overlap]{ruby}
+ \geometry{
+ a4paper,
+ %total={170mm,257mm},
+ left=10mm,
+ top=10mm,
+ right=10mm,
+ bottom=12mm,
+ }
+ 
+\renewcommand{\rubysep}{0.1ex}%3.9ex}
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+            {-0.5ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\z@}%
+            {-0.1ex\@plus -.1ex \@minus -.25ex}%
+            {-1em}%
+            {\normalfont\normalsize\bfseries}}
+\makeatother
+
+\newcommand\tab[1][1cm]{\hspace*{#1}} 
+\newcommand\tabi[1][0.05cm]{\hspace*{#1}}
+\newcommand\tabni[1][0.2cm]{\hspace*{#1}}
+\newcommand\tabyon[1][0.4cm]{\hspace*{#1}}
+\newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{v0.2}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\XeTeXlinebreaklocale "ja"
+\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em
+
+\setlist{nolistsep}
+\titlespacing*{\section}
+{0pt}{1.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsection}
+{0pt}{0.5ex plus 1ex minus .2ex}{0.5ex plus .2ex}
+
+\setlength{\parindent}{0pt}
+\setCJKmainfont{ipaexm.ttf}
+\setcounter{tocdepth}{5}
+
+\begin{document}
+\part*{New Vocabulary}
+\begin{tabular}{ l | l p{13cm} }
+Kanji&Kana&Translation\\ \hline\\[-1em]
+*返す&かえす&--> to return (something)\\ \hline\\[-1em]
+*積もり&つもり&--> intention; plan \\ \hline\\[-1em]
+*恐らく&おそらく&--> perhaps; likely; probably; I dare say \\ \hline\\[-1em]
+*----&だろう&--> seems; I think; I guess; I wonder; I hope /don't you agree?; I thought you'd say that! \\ \hline\\[-1em]
+*----&でしょう&--> seems; I think; I guess; I wonder; I hope /don't you agree?; I thought you'd say that! \\ \hline\\[-1em]
+*----&ひょっとしたら&--> possibly; by some possibility; perhaps \\ \hline\\[-1em]
+*----&ひょっとすると&--> perhaps; maybe; possibly \\ \hline\\[-1em]
+*若しかしたら&もしかしたら&--> perhaps; maybe; perchance; by some chance; by any chance \\ \hline\\[-1em]
+*若しかすると&もしかすると&--> perhaps; maybe; by some chance \\ \hline\\[-1em]
+*かも知れない&かもしれない&--> may; might; perhaps; may be; possibly \\ \hline\\[-1em]
+*----&こんな&--> such /like this \\ \hline\\[-1em]
+*----&そんな&--> such /like that; that sort of \\ \hline\\[-1em]
+*----&あんな&--> such /so; that; sort of \\ \hline\\[-1em]
+*----&どんな&--> what; what kind of \\ \hline\\[-1em]
+*違い&ちがい&--> difference; discrepancy \\ \hline\\[-1em]
+*違いない&ちがいない&--> (phrase) sure; no mistaking it; for certain \\ \hline\\[-1em]
+*屹度&きっと&--> surely; undoubtedly; almost certainly; most likely (e.g. 90 percent) \\ \hline\\[-1em]
+*音&おと&--> sound; noise; report \\ \hline\\[-1em]
+*声&こえ&--> voice \\ \hline\\[-1em]
+*聞こえる&きこえる&--> to be heard; to be audible \\ \hline\\[-1em]
+*見える&みえる&--> to be seen; to be in sight \\ \hline\\[-1em]
+*開く&あく&--> to open (e.g. doors, business, etc.) \\ \hline\\[-1em]
+*開ける&あける&--> to open (a door, for business, etc.); to unwrap (e.g. parcel, package); to unlock \\ \hline\\[-1em]
+*閉める&しめる&--> to close; to shut \\ \hline\\[-1em]
+*閉まる&しまる&--> to be shut; to close; to be closed \\ \hline\\[-1em]
+*開く&ひらく&--> to open; to undo; to unseal; to unpack \\ \hline\\[-1em]
+*閉じる&とじる&--> to close (e.g. book, eyes, meeting, etc.); to shut \\ \hline\\[-1em]
+*掛ける&かける&--> to hang (e.g. picture, cutain); to hoist (e.g. sail, flag) /to make (a call) /to put on (glasses, etc.) /to secure (e.g. lock) \\ \hline\\[-1em]
+*掛かる&かかる&--> to hang(e.g. picture, curtain) /to take (a resource, e.g. time or money) \\ \hline\\[-1em]
+*鍵&かぎ&--> key, lock \\ \hline\\[-1em]
+*電気&でんき&--> electricity /(electric) light \\ \hline\\[-1em]
+*点ける&つける&--> to turn on; to switch on; to light up \\ \hline\\[-1em]
+*点く&つく&--> to be lit (e.g. electricity comes on); to be lighted \\ \hline\\[-1em]
+*消す&けす&--> to turn off power /to extinguish; to put out /to erase; to delete; to cross out \\ \hline\\[-1em]
+*消える&きえる&--> to go out; to vanish; to disappear \\ \hline\\[-1em]
+
+\end{tabular}
+
+%\newpage
+
+
+
+
+\part*{カタカナ}
+\begin{tabular}{ p{3cm} | l l }
+カーテン&--> curtain; curtains \\ \hline\\[-1em]
+スイッチ&--> switch \\ \hline\\[-1em]
+オン&--> on \\ \hline\\[-1em]
+オフ&--> off \\ \hline\\[-1em]
+ブラインド&--> blinds /window blind \\ \hline\\[-1em]
+\end{tabular}
+
+%\part*{Vocabulary that we already learned}
+%\begin{tabular}{ p{3cm} | l l }
+%*違い&ちがい&--> difference; discrepancy \\ \hline\\[-1em]
+%\end{tabular}
+%\footnotetext{する-verb}
+\end{document}
