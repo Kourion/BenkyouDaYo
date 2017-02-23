@@ -3,13 +3,14 @@
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr}
 \usepackage{geometry}
 \usepackage[CJK,overlap]{ruby}
  \geometry{
  a4paper,
  %total={170mm,257mm},
  left=10mm,
- top=12mm,
+ top=10mm,
  right=10mm,
  bottom=12mm,
  }
@@ -31,6 +32,16 @@
 \newcommand\tabni[1][0.2cm]{\hspace*{#1}}
 \newcommand\tabyon[1][0.4cm]{\hspace*{#1}}
 \newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{v1.0}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 
 \XeTeXlinebreaklocale "ja"
 \XeTeXlinebreakskip=0em plus 0.1em minus 0.01em
