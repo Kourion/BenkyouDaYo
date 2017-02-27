@@ -1,10 +1,9 @@
-# [CURRENTLY RESTRUCTURING, LINKS WILL BE BROKEN FOR THE TIME BEEING, ALSO WEBSITE AND EVERYTHING BELOW THIS NOTE IS HORRIBLY OUT OF DATE]
-# [日本学](/JaponicumSemester3.pdf)
+# [CURRENTLY RESTRUCTURING, LINKS WILL BE BROKEN FOR THE TIME BEEING, ALSO WEBSITE AND EVERYTHING BELOW THIS NOTE IS HORRIBLY OUT OF DATE, Current TODO: MiscVocs as List/Anki, IntCourse2 Vocs as Anki, Missing Sem3 Vocs as Anki  ;Fixing Errors in Sem3 Pdf Voc list (done)]
+# [日本学](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
-Additional info is provided and marked with the ¥(円) symbol if that info was never given by そと, while potentially helpful these parts are less relevant.  
-[Semester 1 (TODO)](/JaponicumSemester1.tex),  
+[Semester 1 and Intensive Course 1 (TODO)](/JaponicumSemester1.tex),  
 [Semester 2 (InProgress)](/JaponicumSemester2.tex)  
-[Semester 3](/JaponicumSemester3.pdf) (UpToDateAsOf 18.Jan.2017)  
+[Semester 3 and Intensive Course 2 (InProgress)](/JaponicumSemester3.pdf) (UpToDateAsOf 18.Jan.2017)  
 
 ## [日本学 Vocabulary](/JaponicumVocabulary.pdf) 
 For those cases where anki is not suited, a fine list of all new vocabulary instead. (UpToDateAsOf 18.Dec.16)  
@@ -13,14 +12,12 @@ Previous Semesters:
 [日本学 Semester 1 Vocabulary](/JaponicumVocabulary1.pdf)  
 
 # [日本文化地理概論](/Landeskunde.pdf)
-This is a LaTeX version of all my notes from our 日本文化地理概論. Also some dates and statistics as presented by そとむら are either outdated or biased i sometimes provide additional information in parenthesis right next to them.  
-(Though for the exam one might want to go with そとむら's view of the world.)  
-  
+This is a LaTeX version of all my notes from our 日本文化地理概論.  
 Contains currently lections: 
-1(nature), 2(politics), 3(diplomacy),
+1(nature), 2(politics), 3(diplomacy),  
 4(society), 5(education), 6(economy), 7(culture),  
 
-Missing: 8(food), 9(housing), 10(history)
+Missing: 8(food), 9(housing), 10(history), 11(painting), 12(music)
 
 ## [日本文化地理概論 Vocabulary](/LandeskundeVocabulary.pdf)
 Pretty self explanatory, it contains all the Vocabs we get mailed every so often in form of some very nice tables.  
