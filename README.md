@@ -1,4 +1,6 @@
-# [CURRENTLY RESTRUCTURING, LINKS WILL BE BROKEN FOR THE TIME BEEING, ALSO WEBSITE AND EVERYTHING BELOW THIS NOTE IS HORRIBLY OUT OF DATE, Current TODO: MiscVocs as List/Anki, IntCourse2 Vocs as Anki, Missing Sem3 Vocs as Anki  ;Fixing Errors in Sem3 Pdf Voc list (done)]
+# Update 04.March STILL BRINGING ALL BACK UP TO DATE
+# [CURRENTLY RESTRUCTURING, LINKS WILL BE BROKEN FOR THE TIME BEEING, ALSO WEBSITE AND EVERYTHING BELOW THIS NOTE IS HORRIBLY OUT OF DATE, Current TODO: MiscVocs as List/Anki, IntCourse2 Vocs as Anki, Missing Sem3 Vocs as Anki]
+
 # [日本学](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 [Semester 1 and Intensive Course 1 (TODO)](/JaponicumSemester1.tex),  
