@@ -18,10 +18,12 @@ public class QRCode {
 		if(data == null){
 			throw new NullPointerException();
 		}
+		System.out.println(data+"Sout6");
 		
-		isSquare(data);	//Check Square Design
+		List<List<Boolean>> checkSquareData = data;
+		isSquare(checkSquareData);	//Check Square Design
 		
-		String StringData = data.toString();
+		//String StringData = data.toString();
 		//StringData = StringData.replaceAll("true", "\u2588");//Schwarze Pixel werden als Unicode Full Blocks (U+2588) und weiße Pixel als Unicode Light Shade (U+2591)
 		//StringData = StringData.replaceAll("false", "\u2591");
 		//StringData = StringData.replaceAll("[", " ");
@@ -137,6 +139,7 @@ public class QRCode {
 					}
 		}
 		pubData = data;
+		System.out.println(pubData+"Sout5");
 		QRCode QRCodeData = new QRCode(data);
 		//QRCodeData.clone();
 		return QRCodeData;
@@ -149,14 +152,15 @@ public class QRCode {
 	
 	public String printQRCode(){
 		List<List<Boolean>> msg = pubData;
-		
+		System.out.println(pubData+"Sout4");
+		//System.out.println(msg+"			Sout3");
 		Object[] ObjectArray =  msg.toArray();
-		System.out.println(ObjectArray[0].toString()+"			Sout2");
+		//System.out.println(ObjectArray[0].toString()+"			Sout2");
 		String[] StringArray = new String[ObjectArray.length];
 		for (int i = 0; i < ObjectArray.length; i++) {
 			StringArray[i] = ObjectArray[i].toString();
 		}
-		System.out.println("SA1: "+StringArray[1]);
+		System.out.println("SA0: "+StringArray[0]);
 		//String smsg = msg.toString();
 		//smsg = smsg.replaceAll("true", "\u2588");//Schwarze Pixel werden als Unicode Full Blocks (U+2588) und weiße Pixel als Unicode Light Shade (U+2591)
 		//smsg = smsg.replaceAll("false", "\u2591");
