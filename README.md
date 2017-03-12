@@ -1,4 +1,4 @@
-# Update 08.March STILL BRINGING ALL BACK UP TO DATE
+# Update 12.March STILL BRINGING ALL BACK UP TO DATE
 # [CURRENTLY RESTRUCTURING, LINKS WILL BE BROKEN FOR THE TIME BEEING, ALSO WEBSITE AND EVERYTHING BELOW THIS NOTE IS HORRIBLY OUT OF DATE, Current TODO: MiscVocs as Anki (List Done YEAH!), IntCourse2 Vocs as Anki, Missing Sem3 Vocs as Anki]
 
 # [日本学](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf)
