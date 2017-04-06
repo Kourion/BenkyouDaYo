@@ -15,8 +15,9 @@ Previous Semesters:
 [日本学 Semester 2 Vocabulary(only raw)](/Semester2/Semester2Vocabulary.tex)  
 [日本学 Semester 1 Vocabulary(TODO)](/Semester1-and-IntensiveCourse1/Semester2Vocabulary.pdf)  
 
+Previous Intensive Courses:  
 [日本学 Intensive Course 2 Vocabulary](/Semester3-and-IntensiveCourse2/IntensiveCourse2Vocabulary.pdf)  
-[日本学 Intensive Course 2 Vocabulary(TODO)](/Semester1-and-IntensiveCourse1/IntensiveCourse1Vocabulary.pdf)  
+[日本学 Intensive Course 1 Vocabulary(TODO)](/Semester1-and-IntensiveCourse1/IntensiveCourse1Vocabulary.pdf)  
 
 # [日本文化地理概論](/Landeskunde.pdf)
 This is a LaTeX version of all my notes from our 日本文化地理概論.  
