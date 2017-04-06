@@ -1,17 +1,22 @@
-# Update 06.APRIL STILL BRINGING ALL BACK UP TO DATE (BUT USUABLE)
-# [CURRENTLY RESTRUCTURING, LINKS WILL BE BROKEN FOR THE TIME BEEING, ALSO WEBSITE AND EVERYTHING BELOW THIS NOTE IS HORRIBLY OUT OF DATE, Current TODO: MiscVocs as Anki (List Done YEAH!), IntCourse2 Vocs as Anki, Missing Sem3 Vocs as Anki]
+# Update 06.APRIL STILL BRINGING ALL BACK UP TO DATE (BUT USUABLE) [ALSO WEBSITE STILL NONSENSE]
+# [Current TODO: IntCourse2 Vocs as Anki, fix Links
 
 # [日本学](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 [Semester 1 and Intensive Course 1 (TODO)](/JaponicumSemester1.tex),  
-[Semester 2 (InProgress)](/JaponicumSemester2.tex)  
-[Semester 3 and Intensive Course 2 (InProgress)](/JaponicumSemester3.pdf) (UpToDateAsOf 18.Jan.2017)  
+[Semester 2 (As Word, In Progress to TeX it.)](/Semester2/Semester%202%20Japanese%20Grammar.pdf)  
+[Semester 3 and Intensive Course 2 (InProgress)](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf) 
+(UpToDateAsOf 18.Jan.2017 (Semester 3)(Missing IntCourse 2))  
 
-## [日本学 Vocabulary](/JaponicumVocabulary.pdf) 
+## [日本学 Vocabulary](/Semester3-and-IntensiveCourse2/Semester3Vocabulary.pdf) 
 For those cases where anki is not suited, a fine list of all new vocabulary instead. (UpToDateAsOf 18.Dec.16)  
 Previous Semesters:  
-[日本学 Semester 2 Vocabulary](/JaponicumVocabulary2.pdf)  
-[日本学 Semester 1 Vocabulary](/JaponicumVocabulary1.pdf)  
+[日本学 Semester 3 Vocabulary](/Semester3-and-IntensiveCourse2/Semester3Vocabulary.pdf)  
+[日本学 Semester 2 Vocabulary(only raw)](/Semester2/Semester2Vocabulary.tex)  
+[日本学 Semester 1 Vocabulary(TODO)](/Semester1-and-IntensiveCourse1/Semester2Vocabulary.pdf)  
+
+[日本学 Intensive Course 2 Vocabulary](/Semester3-and-IntensiveCourse2/IntensiveCourse2Vocabulary.pdf)  
+[日本学 Intensive Course 2 Vocabulary(TODO)](/Semester1-and-IntensiveCourse1/IntensiveCourse1Vocabulary.pdf)  
 
 # [日本文化地理概論](/Landeskunde.pdf)
 This is a LaTeX version of all my notes from our 日本文化地理概論.  
@@ -22,16 +27,16 @@ Contains currently lections:
 Missing: 8(food), 9(housing), 10(history), 11(painting), 12(music)
 
 ## [日本文化地理概論 Vocabulary](/LandeskundeVocabulary.pdf)
-Pretty self explanatory, it contains all the Vocabs we get mailed every so often in form of some very nice tables.  
+Pretty self explanatory, it contains all the Vocabs we got mailed every so often in form of some very nice tables.  
 Naturally with supportive ひらがな or ふりがな, and proper translation.  
-(Contains currently lections 1-10 /Missing: 11 || UpToDateAsOf 18.Jan.17)
+(Contains currently lections 1-12 || FINISHED (v1.0 23.FEB.2017) )
 
 # ANKI Vocabulary
 The vocabulary in form of anki study cards:
-### [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B9AJAgnr7rueUGJkdTZuMkU4OVE "Download")
+### [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B9AJAgnr7rueUGJkdTZuMkU4OVE "Download" BROKEN)
 UpToDateAsOf 18.Dec.2016
 ### ANKI Katakana Collection
-Part of the [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B9AJAgnr7rueUGJkdTZuMkU4OVE "Download"), can be studied individually through filtering for the tag カタカナ. Also contains all カタカナ文字 as notes. These can be trained seperately through filtering for the tag 文字.
+Part of the [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B9AJAgnr7rueUGJkdTZuMkU4OVE "Download" BROKEN), can be studied individually through filtering for the tag カタカナ. Also contains all カタカナ文字 as notes. These can be trained seperately through filtering for the tag 文字.
 ### ANKI 日本文化地理概論 Vocabulary
 Contains classes 1-9
 ### How to use the ANKI decks properly:  
