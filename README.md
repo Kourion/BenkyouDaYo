@@ -32,9 +32,9 @@ Pretty self explanatory, it contains all the Vocabs we got mailed every so often
 Naturally with supportive ひらがな or ふりがな, and proper translation.  
 (Contains currently lections 1-12 || FINISHED (v1.0 23.FEB.2017) )
 
-# ANKI Vocabulary
+# [ANKI Vocabulary](https://drive.google.com/open?id=0B0Oky7Bwx8lnXzItMkFqQW11eGs)
 The vocabulary in form of anki study cards:
-### [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B0Oky7Bwx8lnXzItMkFqQW11eGs)
+### [ANKI Language Course Vocabulary (日本学)](https://drive.google.com/open?id=0B0Oky7Bwx8lnXzItMkFqQW11eGs)
 ### ANKI Katakana Collection
 Part of the [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B0Oky7Bwx8lnXzItMkFqQW11eGs), can be studied individually through filtering for the tag カタカナ. Also contains all カタカナ文字 as notes. These can be trained seperately through filtering for the tag 文字.
 ### ANKI 日本文化地理概論 Vocabulary
