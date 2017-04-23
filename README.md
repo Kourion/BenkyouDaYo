@@ -34,10 +34,9 @@ Naturally with supportive ひらがな or ふりがな, and proper translation.
 
 # ANKI Vocabulary
 The vocabulary in form of anki study cards:
-### [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B9AJAgnr7rueUGJkdTZuMkU4OVE "Download" BROKEN)
-UpToDateAsOf 18.Dec.2016
+### [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B0Oky7Bwx8lnXzItMkFqQW11eGs)
 ### ANKI Katakana Collection
-Part of the [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B9AJAgnr7rueUGJkdTZuMkU4OVE "Download" BROKEN), can be studied individually through filtering for the tag カタカナ. Also contains all カタカナ文字 as notes. These can be trained seperately through filtering for the tag 文字.
+Part of the [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0B0Oky7Bwx8lnXzItMkFqQW11eGs), can be studied individually through filtering for the tag カタカナ. Also contains all カタカナ文字 as notes. These can be trained seperately through filtering for the tag 文字.
 ### ANKI 日本文化地理概論 Vocabulary
 Contains classes 1-9
 ### How to use the ANKI decks properly:  
