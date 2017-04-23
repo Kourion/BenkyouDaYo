@@ -39,9 +39,9 @@ Part of the [ANKI Language Course Vocabulary](https://drive.google.com/open?id=0
 ### ANKI 日本文化地理概論 Vocabulary
 Contains classes 1-9
 ### How to use the ANKI decks properly:  
-Download the .apkg files from the links above and import them into Anki Desktop.  
-Rinse and repeat on days following lectures or vocabulary emails, by then the new versions should be up. 
+Download the .apkg files from the links above and import them into Anki Desktop. If you would like them on your smartphone, sync them via AnkiWeb.
 
+Also check here occassionally if a new version is out, if it is the case download it for more cards and improvements of the old ones.
 But wait! Won't I loose my studying progress everytime I download the deck anew?  
 No! Anki is smart enough to compare your already existing decks with your current imports, as long as the cards are not entirely turned upside down(which they hopefully won't be), this means cards will only be imported if they are entirely new, otherwise only changes will be adopted keeping your scheduling.  
 
