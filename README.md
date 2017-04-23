@@ -1,5 +1,4 @@
-# Update 06.APRIL STILL BRINGING ALL BACK UP TO DATE (BUT USUABLE) [ALSO WEBSITE STILL NONSENSE]
-# Current TODO: IntCourse2 Vocs as Anki, fix Links
+# Current TODO: IntCourse2 Vocs as Anki
 
 # [日本学](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
