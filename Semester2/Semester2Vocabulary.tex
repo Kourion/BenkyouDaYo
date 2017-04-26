@@ -3,14 +3,15 @@
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr}
 \usepackage{geometry}
 \usepackage[CJK,overlap]{ruby}
  \geometry{
  a4paper,
  %total={170mm,257mm},
- left=10mm,
- top=12mm,
- right=10mm,
+ left=5mm,
+ top=8mm,
+ right=5mm,
  bottom=12mm,
  }
  
@@ -25,6 +26,14 @@
             {-1em}%
             {\normalfont\normalsize\bfseries}}
 \makeatother
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{v0.7}
 
 \newcommand\tab[1][1cm]{\hspace*{#1}} 
 \newcommand\tabi[1][0.05cm]{\hspace*{#1}}
@@ -49,10 +58,93 @@
 
 %\tableofcontents
 %\newpage
-
+\section{新しい単語}
 %\section{Days and Months}
 %\begin{tabular}{ l l l l l l l l l }
-\begin{tabular}
-
+\begin{tabular}{ l | p{4cm} p{12cm} }
+海 & うみ & sea \\ \hline\\[-1em]
+晴れ & はれ & clear weather; fine weather \\ \hline\\[-1em]
+長い & ながい & long \\ \hline\\[-1em]
+午前 & ごぜん & morning (A.M.) \\ \hline\\[-1em]
+午後 & ごご & afternoon (P.M.) \\ \hline\\[-1em]
+叩く & たたく & to strike /to hit /to clap /to beat /to tap \\ \hline\\[-1em]
+洗う & あらう & to wash \\ \hline\\[-1em]
+後で & あとで & afterwards \\ \hline\\[-1em]
+先に & さきに & before; earlier than; first; ahead; previously; \\ \hline\\[-1em]
+払う & はらう & to pay \\ \hline\\[-1em]
+先ず & まず & first (of all); to start with; \\ \hline\\[-1em]
+服 & ふく & clothes  \\ \hline\\[-1em]
+着る & きる & to put on (or wear) upper-body clothing \\ \hline\\[-1em]
+靴 & くつ & shoes \\ \hline\\[-1em]
+履く & はく & to put on (or wear) lower-body clothing or footwear \\ \hline\\[-1em]
+脱ぐ & ぬぐ & to take off (clothes) /to undress \\ \hline\\[-1em]
+被る & かぶる & to put on (one's head) \\ \hline\\[-1em]
+帽子 & ぼうし & hat	 \\ \hline\\[-1em]
+取る & とる & to remove (one's glasses, etc.) \\ \hline\\[-1em]
+下着 & したぎ & underwear \\ \hline\\[-1em]
+掛かる & かかる & to call /to put on (glasses) \\ \hline\\[-1em]
+外す & はずす & to unfasten; to undo​ (glasses /rings) \\ \hline\\[-1em]
+立つ & たつ & to stand; to rise; to stand up​  \\ \hline\\[-1em]
+座る & すわる & to sit; to squat​ \\ \hline\\[-1em]
+寝る & ねる & to lie down​ /to go to bed; to lie in bed​ \\ \hline\\[-1em]
+---- & いろいろ & various \\ \hline\\[-1em]
+臭い & くさい & stinking; smelly​ \\ \hline\\[-1em]
+危険 & きけん & danger; peril; hazard​; risk \\ \hline\\[-1em]
+危ない & あぶない & dangerous; risky; hazardous; perilous; precarious​ \\ \hline\\[-1em]
+---- & うるさい & noisy; loud \\ \hline\\[-1em]
+賑やか & にぎやか & bustling; busy; lively​ \\ \hline\\[-1em]
+重い & おもい & heavy; weighty; massive​ \\ \hline\\[-1em]
+軽い & かるい & light (i.e. not heavy); feeling light \\ \hline\\[-1em]
+---- & おかしい & peculiar; strange; odd; funny; laughable; ridiculous; weird; unusual; eccentric​ \\ \hline\\[-1em]
+汚い & きたない & dirty; filthy; foul; unclean​ \\ \hline\\[-1em]
+広い & ひろい & wide​; spacious; vast \\ \hline\\[-1em]
+特別 & とくべつ & special /particular \\ \hline\\[-1em]
+退屈 & たいくつ & tedium; boredom \\ \hline\\[-1em]
+狭い & せまい & narrow; confined \\ \hline\\[-1em]
+珍しい & めずらしい & unusual; rare; curious​; new; novel​ \\ \hline\\[-1em]
+考える & かんがえる & to think about; to take into consideration; to ponder; to devise; to scheme​ \\ \hline\\[-1em]
+文法 & ぶんぽう & grammar; syntax \\ \hline\\[-1em]
+説明 & せつめい & explanation; exposition​ \\ \hline\\[-1em]
+---- & ただいまう & Here I am; I'm home!​ \\ \hline\\[-1em]
+---- & いただきます & expression of gratitude before meals​ \\ \hline\\[-1em]
+---- & どうぞ & by all means; feel free; you are welcome​; here you are \\ \hline\\[-1em]
+お帰りなさい & おかえりなさい & welcome back /welcome home %\\ \hline\\[-1em]
 \end{tabular}
+
+\section{もっと新しい単語}
+\begin{tabular}{ l | p{4cm} p{12cm} }
+---- & このなんで & among these \\ \hline\\[-1em]
+世界 & せかい & the world; society; the universe​ \\ \hline\\[-1em]
+世界で & せかいで & in the world \\ \hline\\[-1em]
+全部 & ぜんぶ & all; entire; whole; altogether​ \\ \hline\\[-1em]
+全部で & ぜんぶで & in the whole lot \\ \hline\\[-1em]
+---- & ごちそうさまでした & that was a delicious meal \\ \hline\\[-1em]
+お粗末さまでした & おそまつさまでした & expression of humility said by the person who provided a meal after it is eaten \\ \hline\\[-1em]
+違う & ちがう & to differ (from); to vary \\ \hline\\[-1em]
+間違う & まちがう & to make a mistake; to be incorrect; to be mistaken​ \\ \hline\\[-1em]
+間違える & まちがえる & to make a mistake (in); to commit an error (e.g. in calculation)​; to confuse; to mistake something for something else​ %\\ \hline\\[-1em]
+\end{tabular}
+
+\section{新しいカタカナの単語}
+\begin{tabular}{ l | l }
+コップ & glass /tumbler \\ \hline\\[-1em]
+カップ & cup /mug \\ \hline\\[-1em]
+コーヒーカップ & coffee cup \\ \hline\\[-1em]
+フルート & flute \\ \hline\\[-1em]
+ハーモニカ & harmonica \\ \hline\\[-1em]
+サンダル & sandals \\ \hline\\[-1em]
+ジャケット & jacket \\ \hline\\[-1em]
+コート & coat \\ \hline\\[-1em]
+ジーンズ & jeans \\ \hline\\[-1em]
+セーター & sweater	 \\ \hline\\[-1em]
+スカート & skirt \\ \hline\\[-1em]
+Ｔシャツ & T-shirt \\ \hline\\[-1em]
+イヤリング & earring \\ \hline\\[-1em]
+リング & ring \\ \hline\\[-1em]
+ピアッシング & piercing \\ \hline\\[-1em]
+ベルト	 & belt \\ \hline\\[-1em]
+コンタクトレンズ & contact lens​ \\ \hline\\[-1em]
+ネクタイ & necktie %\\ \hline\\[-1em]
+\end{tabular}
+
 \end{document}
