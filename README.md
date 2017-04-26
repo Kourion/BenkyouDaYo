@@ -11,8 +11,8 @@ Collection of all things grammar, and especially everything talked about in そ�
 For those cases where anki is not suited, a fine list of all new vocabulary instead. (UpToDateAsOf 18.Dec.16)  
 Previous Semesters:  
 [日本学 Semester 3 Vocabulary](/Semester3-and-IntensiveCourse2/Semester3Vocabulary.pdf)  
-[日本学 Semester 2 Vocabulary(only raw)](/Semester2/Semester2Vocabulary.tex)  
-[日本学 Semester 1 Vocabulary(TODO)](/Semester1-and-IntensiveCourse1/Semester2Vocabulary.pdf)  
+[日本学 Semester 2 Vocabulary](/Semester2/Semester2Vocabulary.pdf)  
+[日本学 Semester 1 Vocabulary(TODO)](/Semester1-and-IntensiveCourse1/Semester1Vocabulary.pdf)  
 
 Previous Intensive Courses:  
 [日本学 Intensive Course 2 Vocabulary](/Semester3-and-IntensiveCourse2/IntensiveCourse2Vocabulary.pdf)  
@@ -46,7 +46,7 @@ But wait! Won't I loose my studying progress everytime I download the deck anew?
 No! Anki is smart enough to compare your already existing decks with your current imports, as long as the cards are not entirely turned upside down(which they hopefully won't be), this means cards will only be imported if they are entirely new, otherwise only changes will be adopted keeping your scheduling.  
 
 # [NaAdjectives](/NaAdjectives.pdf)
-Entails a list of lots of na-adjectives. (There are propably plenty missing, help finding them would be appreciated.)
+Entails a list of lots of na-adjectives. (There are probably plenty missing, help finding them would be appreciated.)
 
 # [Random Vocabulary](/RandomVocabulary.pdf) 
 Words which i pick up here and there from one 日本人 or another. Please note the randomness factor here is unusually large.
