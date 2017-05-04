@@ -1,5 +1,3 @@
-# Current TODO: IntCourse2 Vocs as Anki
-
 # [日本学](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf)
 Collection of all things grammar, and especially everything talked about in そとむら先生の日本語の授業.  
 [Semester 1 and Intensive Course 1 (TODO)](/JaponicumSemester1.tex),  
