@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage[CJK,overlap]{ruby}
+\geometry{ a4paper, %total={170mm,257mm},
+	left=10mm, top=10mm, right=10mm, bottom=12mm, } \pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{v0.1}%04.05.2017
+
+
+\renewcommand{\rubysep}{0.1ex}%3.9ex}
+\makeatletter\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}{-0.5ex\@plus -.1ex \@minus -.25ex}{-1em}{\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\z@}{-0.1ex\@plus -.1ex \@minus -.25ex}{-1em}{\normalfont\normalsize\bfseries}}\makeatother
+\renewcommand{\headrulewidth}{0pt} \renewcommand{\footrulewidth}{0pt}
+\newcommand\tab[1][1cm]{\hspace*{#1}} \newcommand\tabi[1][0.05cm]{\hspace*{#1}}\newcommand\tabni[1][0.2cm]{\hspace*{#1}}
+\newcommand\tabyon[1][0.4cm]{\hspace*{#1}}\newcommand\tabroku[1][0.6cm]{\hspace*{#1}}
+\XeTeXlinebreaklocale "ja" \XeTeXlinebreakskip=0em plus 0.1em minus 0.01em \setlist{nolistsep}
+\titlespacing*{\section}{0pt}{1.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{0.5ex plus 1ex minus .2ex}{0.5ex plus .2ex}
+\setlength{\parindent}{0pt}\setCJKmainfont{ipaexm.ttf}\setcounter{tocdepth}{5}
+
+\begin{document} \large
