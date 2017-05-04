@@ -3,7 +3,7 @@ Collection of all things grammar, and especially everything talked about in そ�
 [Semester 1 and Intensive Course 1 (TODO)](/JaponicumSemester1.tex),  
 [Semester 2 (As Word, In Progress to TeX it.)](/Semester2/Semester%202%20Japanese%20Grammar.pdf)  
 [Semester 3 and Intensive Course 2 (InProgress)](/Semester3-and-IntensiveCourse2/Semester3IntCourse2Grammar.pdf) 
-(UpToDateAsOf 18.Jan.2017 (Semester 3)(Missing IntCourse 2))  
+(UpToDateAsOf 18.Jan.2017 (Semester 3)(Missing IntCourse 2))   
 
 ## [日本学 Vocabulary](/Semester3-and-IntensiveCourse2/Semester3Vocabulary.pdf) 
 For those cases where anki is not suited, a fine list of all new vocabulary instead. (UpToDateAsOf 18.Dec.16)  
